@@ -3,4 +3,4 @@
 - 👀 I’m interested in **Unity**
 - 🌱 I’m currently learning **C#** and how to use **Github**.
 - 📫 reach me by adding QQ friends:**1605911086**
-- :scream: I want to participate in a **Gamejam**, who can help me?
+- :scream: I want to participate in **Global GameJam**, who can help me?
