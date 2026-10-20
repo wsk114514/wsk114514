@@ -13,5 +13,5 @@
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=wsk114514)  
 
 
-**You are my** ![Visitor Count](https://profile-counter.glitch.me/wsk114514/count.svg)  **visitors**  
+![](https://github-visitor-counter-tau.vercel.app/api?username=wsk114514)
 *Thanks for your visiting!*
